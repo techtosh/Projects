@@ -17,6 +17,6 @@ button.primary{
     @apply p-2 w-full text-white rounded-2xl;
 }
 
-button.bg-primary{
+a.bg-primary, button.bg-primary{
     background-color: #F5385D;
 }
